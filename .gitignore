@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+temp_uploads/
+chroma_db/
+*.db
+*.log
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Model weights
+*.pkl
+*.pt
+
+# OS
+.DS_Store
